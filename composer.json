@@ -1,6 +1,6 @@
 {
     "name": "webmasterhm/laravel-html",
-    "description": "Build form fields, menus, alert messages and other view components quickly",
+    "description": "Fork from Styde. Build form fields, menus, alert messages and other view components quickly",
     "license": "MIT",
     "authors": [{
         "name": "Duilio Palacios",
